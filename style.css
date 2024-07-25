@@ -1,0 +1,24 @@
+.bank ,th ,td{
+    border: 1px solid black;
+}
+.H2H{
+    color: rgb(191, 99, 217);
+    text-align: center;
+}
+.P1P{
+    color: rgb(229, 90, 187);
+    margin-left: 38%;
+    align-items: center;
+}
+.BGC{
+    background-color: rgb(234, 195, 201);
+}
+.OO{
+    color: black;
+}
+.RR{
+    color:cornflowerblue
+}
+.TT{
+    color:darkorchid
+}
